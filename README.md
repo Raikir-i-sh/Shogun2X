@@ -1,16 +1,15 @@
 # Shogun2X
 List of Total war Shogun 2 Mods I used to make gameplay 2x better
 
-Tools : 
-Pack file manager (PFM): To edit or create mods for Total war games that use .pack extension
-EditSF : To edit save files . 
-ModManager: To manage the load order of mods .
-
+Tools :   
+Pack file manager (PFM): To edit or create mods for Total war games that use .pack extension  
+EditSF : To edit save files .   
+ModManager: To manage the load order of mods .   
+   
 How to install mods: Except for tools mentioned above. All .pack files need to put in "data" folder which is in your game directory. The contents of
 AUM-SHO_encyclopedia needs to be placed inside "encyclopdia" folder. After this , you can use ModManager to tick the mods u want or write your 
 own user.script in AppData/Roaming/...../The Creative Assembly/Scripts folder.
-
-
+  
 Edited_mods folder contains mods that I have heavily edited for which changes are written below. 
 Unedited_mods folder contains mods that I haven't changed at all after downloading from steamworkshop. 
 

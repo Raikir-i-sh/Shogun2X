@@ -93,5 +93,7 @@ Finally , there are many other small tweaks done related to admin costs, Ninja's
 there. Also, Yari-Wall formation can be used by most spear units now. 
 The best thing about Darthmod is AI and No AI cheating (when AI create a full stack of units out of thin air just coz you're playing at "legendary"
 difficulty) so I haven't changed anything for that.
+Also, Use "Stronghold of the Samurai" map mod from steam workshop for best experience. For the amount of unit variety from mods above, a Damn good looking castle 
+would be more fun to conquer,aye?
 
 
